@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "shuffle": true,
+  "videos": [
+    {
+      "id": "station-girl",
+      "title": "Station Girl",
+      "url": "https://github.com/eddnb/webos-wallpaper-library/releases/download/library-v1/station-girl.mp4"
+    }
+  ]
+}
