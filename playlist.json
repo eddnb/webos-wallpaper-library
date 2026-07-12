@@ -1,21 +1,11 @@
 {
-  "version": 1,
-  "shuffle": true,
+  "version": 4,
+  "shuffle": false,
   "videos": [
     {
-      "id": "station-girl-v2",
-      "title": "Station Girl",
-      "url": "https://github.com/eddnb/webos-wallpaper-library/releases/download/library-v1/station-girl-v2.mp4"
-    },
-    {
-      "id": "rain-room",
-      "title": "Rain Room",
-      "url": "https://github.com/eddnb/webos-wallpaper-library/releases/download/library-v1/rain-room.mp4"
-    },
-    {
-      "id": "ouroboros",
-      "title": "Ouroboros",
-      "url": "https://github.com/eddnb/webos-wallpaper-library/releases/download/library-v1/ouroboros.mp4"
+      "id": "station-girl-v3",
+      "title": "Station Girl V3",
+      "url": "https://github.com/eddnb/webos-wallpaper-library/releases/download/library-v1/station-girl-v3.mp4"
     }
   ]
 }
