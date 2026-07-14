@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "shuffle": false,
+  "shuffle": true,
   "videos": [
     {
       "id": "station-girl-v3",
